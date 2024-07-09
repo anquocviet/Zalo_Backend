@@ -1,23 +1,23 @@
 {
   "development": {
     "username": "admin",
-    "password": "sapassword",
+    "password": "anquocviet_203",
     "database": "zalo",
-    "host": "zalo.cnkw88ec2q60.ap-southeast-1.rds.amazonaws.com",
+    "host": "zalo-maria.cvmsquyg28hk.ap-southeast-1.rds.amazonaws.com",
     "dialect": "mariadb"
   },
   "test": {
     "username": "admin",
-    "password": "sapassword",
+    "password": "anquocviet_203",
     "database": "zalo",
-    "host": "zalo.cnkw88ec2q60.ap-southeast-1.rds.amazonaws.com",
+    "host": "zalo-maria.cvmsquyg28hk.ap-southeast-1.rds.amazonaws.com",
     "dialect": "mariadb"
   },
   "production": {
     "username": "admin",
-    "password": "sapassword",
+    "password": "anquocviet_203",
     "database": "zalo",
-    "host": "zalo.cnkw88ec2q60.ap-southeast-1.rds.amazonaws.com",
+    "host": "zalo-maria.cvmsquyg28hk.ap-southeast-1.rds.amazonaws.com",
     "dialect": "mariadb"
   }
 }

@@ -107,8 +107,9 @@ let checkPhone = async (phone) => {
         phone: phone,
       },
     });
-    return data.dataValues;
+    return data
   } catch (error) {
+    console.log(error);
     return null;
   }
 };
